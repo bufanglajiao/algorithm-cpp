@@ -33,7 +33,14 @@
 
 - [C语言程序设计 现代方法 第2版 修订版](https://item.jd.com/13336014.html)
 
+## 推荐B站UP主
 
+- [谭玉刚](https://space.bilibili.com/41036636/channel/detail?cid=161507&ctype=0)
+- [编程日课DailyCoding](https://space.bilibili.com/494537125/)
+- [CodingStartup起码课](https://space.bilibili.com/451368848/)
+- [峰华前端工程师](https://space.bilibili.com/302954484/)
+- [free-coder](https://space.bilibili.com/31273057/video)
+- [代码随想录](https://space.bilibili.com/525438321/video)
 
 ## 仓库文件夹及文件说明
 
