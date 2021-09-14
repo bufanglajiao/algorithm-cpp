@@ -157,5 +157,6 @@
 1. 74.pure_function.c: 副作用与纯函数
 1. 75.complex_thread_result.c: 处理复杂的线程返回结果
 1. 76.callback.c: 函数回调
+1. 77.gtk_learn.c: GTK3 GUI编程
 - 其它：
     - 川师考研历年真题计算机
