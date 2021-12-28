@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 #include "io_utils.h"
 
@@ -14,7 +13,6 @@ int main(void) {
   strcat(dest, src);
   strcpy(dest + strlen(dest), src);
   puts(dest);
-
 
   return 0;
 }

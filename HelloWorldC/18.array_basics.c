@@ -24,6 +24,7 @@ int main(void) {
     PRINT_DOUBLE(array_double[i]);
   }
 
+  // C99
   char array_char[5] = {[2] = 'o', 'y', 'l'};
   for (int i = 0; i < 5; ++i) {
     PRINT_CHAR(array_char[i]);

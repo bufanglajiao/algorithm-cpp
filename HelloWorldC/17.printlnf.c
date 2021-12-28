@@ -24,7 +24,7 @@ int main(void) {
   PRINTLNF("Hello World!");
 
   PRINT_INT(value);// value: 23
-  PRINT_INT(3+4);// value: 23
+  PRINT_INT(3+4);// 3+4: 7
 
   return 0;
 }

@@ -5617,6 +5617,76 @@
 					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="test_c.c">
+				<Option output="E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/test_c.c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/glib-2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/glib-2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/gtk-3.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/pango-1.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/harfbuzz"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/freetype2"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/libpng16"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/fribidi"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/cairo"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/lzo"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/pixman-1"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/gdk-pixbuf-2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/atk-1.0"/>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/HelloWorldC/include"/>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/HelloWorldC/tinycthread/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 test_c.c"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_c.c/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/test_c.c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEBUG"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/glib-2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/glib-2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/gtk-3.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/pango-1.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/harfbuzz"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/freetype2"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/libpng16"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/fribidi"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/cairo"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/lzo"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/pixman-1"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/gdk-pixbuf-2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../include/atk-1.0"/>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/HelloWorldC/include"/>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/HelloWorldC/tinycthread/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 test_c.c/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="E:/CLionProjects/AlgorithmCPP/HelloWorldC/cmake-build-debug-mingw"/>
 				<Option type="4"/>
@@ -5959,6 +6029,10 @@
 			<Option target="78.gtk_xml_learn.c"/>
 			<Option target="80.gtk_glade_css_learn.c"/>
 			<Option target="79.gtk_glade_learn.c"/>
+			<Option target="test_c.c"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/HelloWorldC/test_c.c">
+			<Option target="test_c.c"/>
 		</Unit>
 		<Unit filename="E:/CLionProjects/AlgorithmCPP/HelloWorldC/tinycthread/tinycthread.c">
 			<Option target="03.constant.c"/>
@@ -6041,6 +6115,7 @@
 			<Option target="78.gtk_xml_learn.c"/>
 			<Option target="80.gtk_glade_css_learn.c"/>
 			<Option target="79.gtk_glade_learn.c"/>
+			<Option target="test_c.c"/>
 		</Unit>
 		<Unit filename="E:/CLionProjects/AlgorithmCPP/HelloWorldC/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

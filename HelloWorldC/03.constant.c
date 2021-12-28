@@ -24,7 +24,7 @@ int main() {
 #undef COLOR_RED
 //  printf("COLOR_RED: %d\n", COLOR_RED);
 
-  // 字面量
+  // 字面量 literal
   3;
   3u;
   3l;

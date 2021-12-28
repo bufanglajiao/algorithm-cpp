@@ -3,14 +3,14 @@
 /**
  * 变量
  * 变量命名规则
- * 1. a-zA-Z0-9
+ * 1. a-zA-Z0-9_
  * 2. 数不能在第一个
  * 3. Google code style.
  * @return
  */
 int main() {
   // <type> <name>;
-  int value = 3;
+  int value;
   // <type> <name> = <initialized value>
   int value_init = 3;
 

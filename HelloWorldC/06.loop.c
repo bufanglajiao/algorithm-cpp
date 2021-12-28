@@ -55,7 +55,7 @@ int main() {
    * for(<initialization>;<condition>;<state>) {
    *  ...statement
    * }
-   * <c99 initialization不能有变量定义
+   * < c99 initialization不能有变量定义
    */
 //   int num = 1;
 //   int sum = 0;

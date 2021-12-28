@@ -25,7 +25,7 @@ int main(void) {
   memset(dest, 0, 11);
   memcpy(dest, src, 11); // 内存不重叠
   puts(dest);
-  memmove(dest + 3, src + 1, 4); // 内存重叠
+  memmove(dest + 3, dest + 1, 4); // 内存重叠
   puts(dest);
   free(dest);
   return 0;

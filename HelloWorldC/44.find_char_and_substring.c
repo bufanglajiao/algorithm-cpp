@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <errno.h>
 #include <string.h>
 #include "io_utils.h"
 
@@ -10,16 +8,19 @@
  * @return
  */
 int main(void) {
+  // 查找字符strchr
   char *string = "Hello World!";
   char *result = strchr(string, 'l');
   char *result_reverse = strrchr(string, 'l');
   puts(result);
   puts(result_reverse);
 
+  // 查找子串strstr
   char *substring_position = strstr(string, "Wor");
   puts(substring_position);
   PRINT_INT(substring_position - string);
 
+  // 查找字符strpbrk
   char *string2 = "C, 1972; C++, 1983; Java, 1995; Rust, 2010; Kotlin, 2011";
   char *break_set = ",;";
   int count = 0;

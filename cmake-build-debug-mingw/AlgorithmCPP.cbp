@@ -17,55 +17,425 @@
 					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="07.binary_search_tree.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/07.binary_search_tree.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 07.binary_search_tree.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07.binary_search_tree.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/07.binary_search_tree.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 07.binary_search_tree.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05.max_heap.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/05.max_heap.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 05.max_heap.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05.max_heap.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/05.max_heap.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 05.max_heap.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04.quick_sort.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/04.quick_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 04.quick_sort.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04.quick_sort.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/04.quick_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 04.quick_sort.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01.select_sort.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/01.select_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01.select_sort.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01.select_sort.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/01.select_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01.select_sort.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06.binary_search.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/06.binary_search.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 06.binary_search.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06.binary_search.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/06.binary_search.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 06.binary_search.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02.insert_sort.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/02.insert_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 02.insert_sort.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02.insert_sort.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/02.insert_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 02.insert_sort.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03.merge_sort.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/03.merge_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 03.merge_sort.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03.merge_sort.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/03.merge_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 03.merge_sort.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08.union_find.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/08.union_find.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 08.union_find.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08.union_find.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/08.union_find.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 08.union_find.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="09.graph_theory.cpp">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/09.graph_theory.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 09.graph_theory.cpp"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="09.graph_theory.cpp/fast">
+				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/09.graph_theory.cpp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLionProjects/AlgorithmCPP/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
+					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 09.graph_theory.cpp/fast"/>
+					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="01_sort.cpp">
-				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/01_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01_sort.cpp"/>
-					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="01_sort.cpp/fast">
-				<Option output="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/01_sort.cpp.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/x86_64-w64-mingw32"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include/c++/10.2.0/backward"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../include"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed"/>
-					<Add directory="D:/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.2.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 01_sort.cpp/fast"/>
 					<CompileFile command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/msys2/mingw64/bin/mingw32-make.exe -f &quot;E:/CLionProjects/AlgorithmCPP/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
@@ -82,8 +452,32 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/CLionProjects/AlgorithmCPP/01_sort.cpp">
-			<Option target="01_sort.cpp"/>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/01.select_sort.cpp">
+			<Option target="01.select_sort.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/02.insert_sort.cpp">
+			<Option target="02.insert_sort.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/03.merge_sort.cpp">
+			<Option target="03.merge_sort.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/04.quick_sort.cpp">
+			<Option target="04.quick_sort.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/05.max_heap.cpp">
+			<Option target="05.max_heap.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/06.binary_search.cpp">
+			<Option target="06.binary_search.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/07.binary_search_tree.cpp">
+			<Option target="07.binary_search_tree.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/08.union_find.cpp">
+			<Option target="08.union_find.cpp"/>
+		</Unit>
+		<Unit filename="E:/CLionProjects/AlgorithmCPP/09.graph_theory.cpp">
+			<Option target="09.graph_theory.cpp"/>
 		</Unit>
 		<Unit filename="E:/CLionProjects/AlgorithmCPP/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

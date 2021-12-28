@@ -6,6 +6,8 @@ project(${ProjectId} CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 
+include_directories("include")
+
 file(GLOB files "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp")
 foreach(file ${files})
     get_filename_component(name ${file} NAME)
