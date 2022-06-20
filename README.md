@@ -1,4 +1,4 @@
-# 四川师范大学 软件工程 考研 C语言程序设计与数据结构:basketball_man
+# 四川师范大学 软件工程 考研 C语言程序设计与数据结构（2023）
 此仓库主要包含
 
 - C语言
@@ -162,36 +162,3 @@
 - [UNIX编程艺术]()
 - [UNIX环境高级编程]()
 - [程序员的自我修养]()
-
-## Hacker
-`抛开用工具做脚本小子的想法，做黑客要有创新、研发的精神。抛开浮躁，静下心来从头开始学习基础，为将来的成长做好足够的准备！`
-- [C++黑客编程揭秘与防范 第3版]()
-- [Windows黑客编程技术详解]()
-
-## 推荐B站UP主
-`以下均是素未蒙面的各领域的启蒙老师或本人觉得十分干货的UP主，感谢各位前辈！`
-- [(公务员)刘文超](https://space.bilibili.com/300722822/video)
-- [(英语)英语兔](https://space.bilibili.com/483162496/video)
-- [(C)谭玉刚](https://space.bilibili.com/41036636/channel/detail?cid=161507&ctype=0)
-- [(C++、算法)代码随想录](https://space.bilibili.com/525438321/video)
-- [(C++、C)bennyhuo不是算命的](https://space.bilibili.com/28615855/video)
-- [(C++、算法)花花酱的表世界](https://space.bilibili.com/9880352/video)
-- [(C)编程日课DailyCoding](https://space.bilibili.com/494537125/)
-- [(全栈)free-coder](https://space.bilibili.com/31273057/video)
-- [(Go)橙卡](https://space.bilibili.com/10/video)
-- [(Go)幼麟实验室](https://space.bilibili.com/567195437/video)
-- [(Java)颜群](https://space.bilibili.com/326782142/video)
-- [(人工智能)同济子豪兄](https://space.bilibili.com/1900783/video)
-- [(前端)CodingStartup起码课](https://space.bilibili.com/451368848/)
-- [(前端)峰华前端工程师](https://space.bilibili.com/302954484/)
-- [(前端)向军大叔](https://space.bilibili.com/282190994/video)
-- [(Android)longway777](https://space.bilibili.com/137860026/video)
-- [(Android)扔物线](https://space.bilibili.com/27559447/video)
-- [(iOS)Xiaoyouxinqing](https://space.bilibili.com/502566212/video)
-- [(Flutter)ducafecat](https://space.bilibili.com/404904528/video)
-- [(硬件)硬件茶谈](https://space.bilibili.com/14871346/video)
-- [(嵌入式)太极创客](https://space.bilibili.com/103589285/video)
-- [(理财)DeltaF](https://space.bilibili.com/31721731/video)
-- [(吉他)吉他情报局](https://space.bilibili.com/103600069/video)
-
-### —— Google.End@YinLei.Coder ——
